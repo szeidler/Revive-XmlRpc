@@ -5,7 +5,7 @@
     "type": "library",
     "require": {
         "phpxmlrpc/phpxmlrpc": "4.4.2",
-        "illuminate/support": "7.*"
+        "illuminate/support": "8.*"
     },
     "require-dev": {
         "victorjonsson/markdowndocs": "1.3.*"
