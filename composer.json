@@ -1,11 +1,11 @@
 {
-    "name": "artistan/revive-xmlrpc",
-    "description": "package of the library classes to provide XmlRpc routines for accessing revive ad servers",
-    "homepage": "https://github.com/Artistan/revive-xmlrpc",
+    "name": "szeidler/revive-xmlrpc",
+    "description": "Fork of https://github.com/Artistan/Revive-XmlRpc",
+    "homepage": "https://github.com/szeidler/Revive-XmlRpc",
     "type": "library",
     "require": {
-        "phpxmlrpc/phpxmlrpc": "4.3.1",
-        "illuminate/support": "5.6.*"
+        "phpxmlrpc/phpxmlrpc": "4.4.2",
+        "illuminate/support": "6.*"
     },
     "require-dev": {
         "victorjonsson/markdowndocs": "1.3.*"
