@@ -4,7 +4,7 @@
     "homepage": "https://github.com/szeidler/Revive-XmlRpc",
     "type": "library",
     "require": {
-        "phpxmlrpc/phpxmlrpc": "4.4.2",
+        "phpxmlrpc/phpxmlrpc": "^4.4.2",
         "illuminate/support": "8.*"
     },
     "require-dev": {
