@@ -25,7 +25,7 @@ Extracted into a package and updated to use packages rather than pear
 
 ```json
     "require": {
-        "szeidler/revive-xmlrpc": ^2"
+        "szeidler/revive-xmlrpc": "^2"
     },
 ```
 
