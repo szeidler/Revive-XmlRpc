@@ -6,7 +6,7 @@
     "require": {
         "phpxmlrpc/phpxmlrpc": "^4.11",
         "illuminate/support": "^8.83 || ^9.52 || ^10.48 || ^11.40",
-        "phpoption/phpoption": "^1.93"
+        "phpoption/phpoption": "^1.9"
     },
     "keywords": [
         "revive",
