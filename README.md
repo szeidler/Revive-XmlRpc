@@ -1,5 +1,5 @@
 
-# szeidler/Revive-XmlRpc
+# Fork of Artistan/Revive-XmlRpc
 
 Remote procedure calls - RPC - is a basic API that has existed on Revive since it was OpenX Source.
 This is a basic update to that system and extracted into a package which can be used in virtually any Php Project to access your Revive server or manage multiple Revive servers.
