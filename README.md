@@ -1,5 +1,5 @@
 
-# Artistan/Revive-XmlRpc
+# Fork of Artistan/Revive-XmlRpc
 
 remote procedure calls - RPC - is a basic API that has existed on Revive since it was OpenX Source.
 This is a basic update to that system and extracted into a package which can be used in virtually any Php Project to access your Revive server or manage multiple Revive servers.
@@ -25,6 +25,15 @@ extracted into a package and updated to use packages rather than pear
     "require": {
         "artistan/revive-xmlrpc": "*"
     }
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/curtistinkers/Revive-XmlRpc"
+        }
+    ],
+    "require": {
+        "szeidler/revive-xmlrpc": "dev-update-illuminate as 2.5.6"
+    },
 ```
 
 ## Using The API
